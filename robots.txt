@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://WuguanYao.github.io/sitemap.xml
